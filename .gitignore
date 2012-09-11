@@ -1,0 +1,11 @@
+Makefile
+zconf.h
+
+*.lo
+*.so.*
+*.pc
+configure.log
+example*
+minigzip*
+*.o
+*.S
