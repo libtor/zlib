@@ -9,3 +9,4 @@ example*
 minigzip*
 *.o
 *.S
+*.a
